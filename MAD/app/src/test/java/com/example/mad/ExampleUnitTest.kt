@@ -1,4 +1,4 @@
-package com.example.madclass
+package com.example.mad
 
 import org.junit.Test
 

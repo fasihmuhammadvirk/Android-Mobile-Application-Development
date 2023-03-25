@@ -1,10 +1,10 @@
-package com.example.madclass
+package com.example.mad
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
-import com.example.madclass.databinding.ActivityCalculatorBinding
+import com.example.mad.databinding.ActivityCalculatorBinding
 
 
 class CalculatorActivity : AppCompatActivity() {
