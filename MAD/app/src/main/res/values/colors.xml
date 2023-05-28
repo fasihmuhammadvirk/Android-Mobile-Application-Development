@@ -11,7 +11,11 @@
     <color name="dark">#D20E0E0E</color>
 
 
-    <color name="red">#F00</color>
+    <color name="myinvention1">#8FF5D7A6</color>
+    <color name="red2">#99DD0C0C</color>
+
+    <color name="myinvention">#F5D7A6</color>
+    <color name="red">#61DD0C0C</color>
     <color name="almostback">#222</color>
     <color name="orange">#FF8c00</color>
 

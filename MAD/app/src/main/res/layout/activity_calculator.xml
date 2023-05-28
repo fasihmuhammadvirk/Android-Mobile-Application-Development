@@ -13,6 +13,19 @@
 
         style="@style/ButtonRow">
 
+        <Button
+            android:id="@+id/goback"
+            android:layout_width="110dp"
+            android:layout_height="66dp"
+            style="@style/RoundGrayButton"
+            android:background="@drawable/round_button_rectangle_gray"
+            android:text="Go Back"
+            android:onClick="goback"
+            app:layout_constraintEnd_toStartOf="@id/guidelinebuttonright"
+            app:layout_constraintTop_toTopOf="parent"
+
+            />
+
 
 
         <TextView

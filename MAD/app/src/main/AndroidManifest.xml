@@ -12,6 +12,27 @@
         android:theme="@style/Theme.MADClass"
         tools:targetApi="31">
         <activity
+            android:name=".ResturantActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BMIActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MenuAcitvity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TestingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Layout_and_MaterialDesign_Activity"
+            android:exported="false" />
+        <activity
             android:name=".ButtonActivity"
             android:exported="false">
             <intent-filter>
