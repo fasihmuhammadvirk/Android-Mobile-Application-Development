@@ -2,19 +2,19 @@
 Task and Project Implement in Android Studio Using Kotlin<br>
 <br>1. Task Buttons and Toast Class
 
-<img src="ReadMe Files/Image1.png" height="400" width="400">
+<img src="ReadMe Files/Image1.png" height="500" width="400">
 
 <br>2. Calculator
 
-<img src="ReadMe Files/Image2.png" height="400" width="900">
+<img src="ReadMe Files/Image2.png" height="500" width="400">
 
 <br>3. BMI Calculator
 
-<img src="ReadMe Files/Image3.png" height="400" width="900">
+<img src="ReadMe Files/Image3.png" height="500" width="400">
 
 <br>4. Layout and Material Design
 
-<img src="ReadMe Files/Image4.png" height="400" width="900">
+<img src="ReadMe Files/Image4.png" height="500" width="400">
 
 <br>5. Restaurant Menu 
 
