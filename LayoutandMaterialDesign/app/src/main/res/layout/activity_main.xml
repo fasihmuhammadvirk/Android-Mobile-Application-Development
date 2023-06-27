@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Linear Layout"
+        android:textColor="@color/white"
+        android:textSize="50sp"
+        android:padding="30dp"
+        android:layout_marginTop="10dp"
+
+
+        />
+
+    <EditText
+        android:id="@+id/editTextTextMultiLine7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textSize="20sp"
+        android:inputType="textMultiLine"
+        android:textAlignment="center"
+        android:text="This is an Exercise to Study Linear Layout. We will Study the Vertical and Horizontal."
+
+        />
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp"
+        android:padding="20dp"
+        >
+
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:ems="10"
+            android:layout_marginStart="10dp"
+            android:textSize="20sp"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Button"
+            android:textColor="@color/white"
+            android:layout_marginEnd="10dp"
+            android:background= "@drawable/round_button_rectangle"
+            />
+
+
+    </LinearLayout
+
+
+
+        >
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:padding="20dp">
+
+
+        <TextView
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Password"
+            android:textColor="@color/white"
+            android:ems="10"
+            android:layout_marginStart="10dp"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Button"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/white"
+            android:background= "@drawable/round_button_rectangle"
+            />
+
+
+    </LinearLayout>
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="The End"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:padding="30dp"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Resturant_Activity</string>
+
+    <string name="menu">1. Burger         2000 Rupees\n \n2. Pasta          1500 Rupees\n \n3. Pizza           3000 Rupees\n \n4. Sandwich   1000 Rupees\n \n5. Noodel        500 Rupees\n \n6. Burger         2000 Rupees\n \n7. Pasta          1500 Rupees\n \n8. Pizza           3000 Rupees\n \n9. Sandwich   1000 Rupees\n \n10. Noodel       500 Rupees</string>
+
+    <string name="menu2">1. MintMagerta      2000 Rupees\n \n2. Pinacolada        1500 Rupees\n \n3. Cold Coffee        3000 Rupees\n \n4. Hot Chocolate   1000 Rupees\n \n5. Lassi                     500 Rupees\n \n6. MintMagerta      2000 Rupees\n \n7. Pinacolada        1500 Rupees\n \n8. Cold Coffee        3000 Rupees\n \n9. Hot Chocolate   1000 Rupees\n \n10. Lassi                 500 Rupees</string>
+
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:padding">20dp</item>
+    </style>
+
+
+
+    <style name="RoundButtonNumber">
+        <item name="android:layout_width">77dp</item>
+        <item name="android:layout_height">77dp</item>
+        <item name="android:background">@drawable/round_button</item>
+        <item name="android:onClick">numberAction</item>
+        <item name="android:textSize">20sp</item>
+
+    </style>
+
+    <style name="RoundButtonOperator">
+        <item name="android:layout_width">77dp</item>
+        <item name="android:layout_height">77dp</item>
+        <item name="android:background">@drawable/round_button_orange</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:onClick">operationAction</item>
+
+    </style>
+
+    <style name="RoundGrayButton">
+        <item name="android:layout_width">77dp</item>
+        <item name="android:layout_height">77dp</item>
+        <item name="android:background">@drawable/round_button_gray</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+
+    </style>
+
+
+</resources>
